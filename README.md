@@ -30,3 +30,8 @@
 
 1. [Storyline Online](https://www.storylineonline.net/) -- celebrated actors reading children's books.
 1. [Films with English subtitles](http://www.hamatata.com/lib) and included Russian translator. [Article on habr](https://habr.com/post/227055/) (RUS)
+
+
+## Podcasts
+
+1. [Don't Speak](https://dontspeak.podster.fm/) (RUS)
