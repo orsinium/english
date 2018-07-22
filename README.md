@@ -4,6 +4,7 @@
 1. [Web cheat sheet](https://agalitsyn.github.io/english-cheatsheet/). Usage, examples, mistakes. [Repository](https://github.com/agalitsyn/english-cheatsheet) also available.
 1. [English tenses logic](https://habr.com/post/43165/) (RUS)
 1. [All English tenses structure](http://speakspeak.com/resources/english-grammar-rules/structure-of-english-tenses) in examples. Also see [other grammar rules](http://speakspeak.com/resources/english-grammar-rules) on this resource.
+1. [Big tenses mindmap](https://www.mindmeister.com/523917653/english-tenses-cheatsheet?fullscreen=1)
 
 ## Verbs
 
