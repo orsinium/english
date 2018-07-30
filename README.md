@@ -28,12 +28,15 @@
 
 1. [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 
-
 ## Listening and watching
 
 1. [Storyline Online](https://www.storylineonline.net/) -- celebrated actors reading children's books.
 1. [Films with English subtitles](http://www.hamatata.com/lib) and included Russian translator. [Article on habr](https://habr.com/post/227055/) (RUS)
 
+## Speaking
+
+1. [Improve your Accent: Tongue Twisters](https://www.youtube.com/watch?v=xa8nkPkWoWA)
+1. [English Tongue Twisters](http://www.tongue-twister.net/en.htm)
 
 ## Podcasts
 
