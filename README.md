@@ -37,4 +37,4 @@
 
 ## Podcasts
 
-1. [Don't Speak](https://dontspeak.podster.fm/) (RUS)
+1. [Don't Speak](https://dontspeak.podster.fm/) ([mindmaps](./dontspeak/)) (RUS)
