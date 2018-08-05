@@ -12,6 +12,7 @@
 1. [50 common English phrasal verbs](assets/common_phrasal_verbs.pdf)
 1. [Wow, such many phrasal verbs](assets/phrasal_verbs.pdf)
 1. [Irregular verbs table](assets/irregular_verbs.pdf)
+1. [Verb forms](https://www.grammarly.com/blog/verb-forms/)
 
 ## Words and phrases
 
