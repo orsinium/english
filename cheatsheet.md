@@ -56,8 +56,9 @@ V:    had
 
 Some special forms:
 
-|going to           |I'm going to visit USA next summer |plans      |
+|name               |example                            |usage      |
 |-------------------|-----------------------------------|-----------|
-|present continuous |I'm not working tomorrow.          | future    |
+|going to           |I'm going to visit USA next summer |plans      |
+|present continuous |I'm not working tomorrow.          |future     |
 |present simple     |The train leaves at 12.00.         |timetables |
 |used to            |I used to read book every day  |regular, in past, ended now|
