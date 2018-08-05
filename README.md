@@ -20,6 +20,7 @@
 1. [Basic English word list](https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list). 850 words in the Basic English core vocabulary on Wikipedia.
 1. [Basic English combined wordlist](https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist). When you ready to move from Basic English to standart English.
 1. [Swadesh list](https://en.wikipedia.org/wiki/Swadesh_list) for English. Top 100 English words.
+1. [Prefixs and suffixes](prefixes_suffixes.pdf)
 
 ## Other materials
 
