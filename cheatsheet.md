@@ -132,6 +132,8 @@ How to disagree? You can say "But I'm not". However in most cases it's a little 
 
 ## Possibility
 
+| Word    | %     |
+|---------|-------|
 | Must    | 100%  |
 | Should  | 75%   |
 | Can     | 50%   |
