@@ -150,18 +150,34 @@ Possibility words follows in that order, but I'm not sure about this values.
 | countable   | uncountable |
 |-------------|-------------|
 | too many    | too much    |
-| enough      | enough      |
 | a few       | a little    |
 
-* many/much
+* **many/much**
   * I have **too much** work.
   * I eat **too many** cakes.
   * I'm **too** tired.
-* enough
+* **enough**
   * I don't drink **enough** water.
   * This dress isn't big **enough**.
-* few/little
+* **some**
+* **a few / a little**
   * I eat **a little** meat.
   * I bought **a few** bananas.
+* **no**
+  * **no** milk.
+  * **no** books.
 
 How to choose, countable or uncountable? Countable words have a plural form. Uncountable don't have it. That's all.
+
+For both, countable and uncountable:
+
+* **Enough**
+* **A lot of**, **lots of**. Prefer it to `much` in positive sentences:
+  * We **didn't** spend **much** money.
+  * We spent **a lot of** money.
+* **Plenty of**. It's more than enough.
+
+
+**Little** and **few** (without a) are negative ideas (= not much / not many):
+  * He spoke **little** English, so it was difficult to communicate with him.
+  * He spoke **a little** English, so we were able to communicate with him.
