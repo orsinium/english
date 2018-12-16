@@ -128,3 +128,16 @@ V:    had
 If it is necessary use `do`, `have`, `can` etc. instead of `am`
 
 How to disagree? You can say "But I'm not". However in most cases it's a little bit rude, I guess.
+
+
+## Possibility
+
+| Must    | 100%  |
+| Should  | 75%   |
+| Can     | 50%   |
+| May     | 40%   |
+| Might   | 30%   |
+| Could   | 20%   |
+| Cannot  | 0%    |
+
+Possibility words follows in that order, but I'm not sure about this values.
