@@ -143,3 +143,25 @@ How to disagree? You can say "But I'm not". However in most cases it's a little 
 | Cannot  | 0%    |
 
 Possibility words follows in that order, but I'm not sure about this values.
+
+
+## Quantifiers
+
+| countable   | uncountable |
+|-------------|-------------|
+| too many    | too much    |
+| enough      | enough      |
+| a few       | a little    |
+
+* many/much
+  * I have **too much** work.
+  * I eat **too many** cakes.
+  * I'm **too** tired.
+* enough
+  * I don't drink **enough** water.
+  * This dress isn't big **enough**.
+* few/little
+  * I eat **a little** meat.
+  * I bought **a few** bananas.
+
+How to choose, countable or uncountable? Countable words have a plural form. Uncountable don't have it. That's all.
