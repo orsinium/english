@@ -47,11 +47,11 @@ V:    had
 
 ## Tenses
 
-|                   |Past             |Present          |Future           |
-|-------------------|-----------------|-----------------|-----------------|
-|Simple             |verb 3           |verb 1           |will + verb 1    |
-|Continuous         |to be 3 + verb 4 |to be 1 + verb 4 |will be + verb 4 |
-|Perfect            |had + verb 3     |to have 1 + verb 3       |will have + verb 3|
+|                   |Past             |Present                  |Future                 |
+|-------------------|-----------------|-------------------------|-----------------------|
+|Simple             |verb 3           |verb 1                   |will + verb 1          |
+|Continuous         |to be 3 + verb 4 |to be 1 + verb 4         |will be + verb 4       |
+|Perfect            |had + verb 3     |to have 1 + verb 3       |will have + verb 3     |
 |Perfect continuous |had been + verb 4|to have 1 + been + verb 4|will have been + verb 4|
 
 
@@ -115,3 +115,16 @@ V:    had
   * Impossible because it refers to the past.
   * Past perfect + present perfect with would.
   * If I **had found** her address, I **would have sent** her an invitation.
+
+
+## Agree
+
+|         | positive          | negative              |
+|---------|-------------------|-----------------------|
+| Phrase  | I'm happy.        | I'm not happy.        |
+| Short   | So am I.          | Neither am I.         |
+| Full    | I'm happy too.    | I'm not happy either. |
+
+If it is necessary use `do`, `have`, `can` etc. instead of `am`
+
+How to disagree? You can say "But I'm not". However in most cases it's a little bit rude, I guess.
