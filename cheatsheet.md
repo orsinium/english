@@ -178,3 +178,18 @@ How to choose, countable or uncountable? Countable words have a plural form. Unc
 **Little** and **few** (without a) are negative ideas (= not much / not many):
   * He spoke **little** English, so it was difficult to communicate with him.
   * He spoke **a little** English, so we were able to communicate with him.
+
+
+## Articles
+
+* **a/an**
+  * singular countable nouns.
+* **the**
+  * something that already mentioned.
+  * there's only one of something.
+  * it's clear what you’re referring to.
+  * with places in a town (cinema, theater).
+  * with superlatives (the best).
+* **no article**
+  * plural.
+  * uncountable.
