@@ -95,3 +95,23 @@ V:    had
 * Thought, through, thorough, though.
 * Raise, raze, rise, race.
 * Piece, peace, piss, peas.
+
+
+## Conditional sentences
+
+* Zero:
+  * Real and possible.
+  * Present simple + present simple.
+  * If you **freeze** water, it **becomes** a solid.
+* First:
+  * Possible and very likely.
+  * Present simple + future simple.
+  * If I **find** her address, I **will** send her an invitation.
+* Second:
+  * Possible but very unlikely.
+  * Past simple + would.
+  * If I **found** her address, I **would** send her an invitation.
+* Third:
+  * Impossible because it refers to the past.
+  * Past perfect + present perfect with would.
+  * If I **had found** her address, I **would have sent** her an invitation.
